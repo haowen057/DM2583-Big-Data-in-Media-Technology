@@ -1,19 +1,20 @@
 # DM2583-Big-Data-in-Media-Technology
-### Project Structure
+# Project Structure
 
-Data Processing
-├─ Dataset_Process.ipynb       # Data cleaning
-├─ Dataset_mapped_medical.csv  # Cleaned dataset
+## 1. Data Processing
+- `Dataset_Process.ipynb`       : Data cleaning notebook
+- `Dataset_mapped_medical.csv`  : Cleaned dataset
 
-Transformer Model
-├─ data_processor.py           # Data preprocessing
-├─ model.py                    # Model architecture
-├─ train.py                    # Model training
-├─ best_transformer.pt
-└─ best_transformer.pth
+## 2. Transformer Model
+- `data_processor.py`           : Data preprocessing for Transformer
+- `model.py`                     : Transformer model architecture
+- `train.py`                     : Model training script
+- `best_transformer.pt`          : Best Transformer model (PyTorch)
+- `best_transformer.pth`         : Best Transformer model (PyTorch)
 
-Model Evaluation
-├─ evaluate_original_logistic_regression.py
-├─ evaluate_transformer.py
-└─ evaluate_enhance_logistic_regression.py
+## 3. Model Evaluation
+- `evaluate_original_logistic_regression.py` : Evaluate baseline logistic regression
+- `evaluate_transformer.py`                  : Evaluate Transformer model
+- `evaluate_enhance_logistic_regression.py`  : Evaluate enhanced logistic regression
+
 
