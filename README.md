@@ -1,5 +1,5 @@
 # DM2583-Big-Data-in-Media-Technology
-# group work Group 3 : Hao Wen, Jiashu Sun, Yanliang Gong
+# Group 3 : Hao Wen, Jiashu Sun, Yanliang Gong
 # Project Structure
 
 ## 1. Data Processing
